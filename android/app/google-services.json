@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992124331725",
+    "project_id": "chattrial-4b6b5",
+    "storage_bucket": "chattrial-4b6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992124331725:android:3f10f7b8b95661c9c46b84",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd185CP9cSjQbJrg2IuGCvJbsSTCp9EnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
